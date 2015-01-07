@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: MovingData
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: tylermalin@gmail.com
+description: "Exploring The Relationship Between Complex Data and Visual Communication"
+baseurl: "/github.io"
+url: "http://tylermalin.github.io"
+twitter_username: @tylermalin
+github_username:  tylermalin
+facebook_username:  tylermalin
 
 # Build settings
 markdown: kramdown
